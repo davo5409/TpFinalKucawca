@@ -1,0 +1,40 @@
+[
+{
+   "codigo": 0,
+    "nombre": "jamon y queso",
+    "precio": 200,
+    "foto": "jyq.jpg"  
+
+},
+{
+    "codigo": 1,
+    "nombre": "carne",
+    "precio": 220,
+    "foto": "carne.jpg"
+},
+{
+    "codigo": 2,
+    "nombre": "pollo",
+    "precio": 190,
+    "foto": "pollo.jpg"
+},
+{
+    "codigo": 3,
+    "nombre": "humita",
+    "precio": 200,
+    "foto": "humita.jpg"
+},
+{
+    "codigo": 4,
+    "nombre": "verdura",
+    "precio": 180,
+    "foto": "verdura.jpg"
+},
+{
+    "codigo": 5,
+    "nombre": "roquefort",
+    "precio": 240,
+    "foto": "roquefort.jpg"
+}
+
+]
